@@ -1,5 +1,5 @@
 # POPSCOMP
-POPS applied to biomolecular complexes to compute buried surface areas.
+POPS computes solvent accessible surface areas (SASAs) of biomolecules (protein, DNA/RNA).
 
 POPSCOMP is running on the [POPScomp server](http://popscomp.org:3838),
 the code and additional information is provided in Fraternali lab's GitHub repository 
