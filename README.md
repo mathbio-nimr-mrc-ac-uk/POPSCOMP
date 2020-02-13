@@ -1,9 +1,9 @@
 # POPSCOMP
 POPS applied to biomolecular complexes to compute buried surface areas.
 
-The POPSCOMP program is now included in Fraternali lab's GitHub repository 
-[POPScomp](https://github.com/Fraternalilab/POPScomp) and the
-[POPScomp server](http://popscomp.org:3838).
+POPSCOMP is running on the [POPScomp server](http://popscomp.org:3838),
+the code and additional information is provided in Fraternali lab's GitHub repository 
+[POPScomp](https://github.com/Fraternalilab/POPScomp).
 
-The original and now discontinued POPSCOMP server was initially hosted at mathbio.ninmr.mrc.ac.uk
+Originally POPSCOMP server was hosted at mathbio.ninmr.mrc.ac.uk
 and temporarily at mathbio.crick.mrc.ac.uk .
